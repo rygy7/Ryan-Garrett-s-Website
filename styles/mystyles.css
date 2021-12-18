@@ -1,0 +1,17 @@
+body {
+    background-image: url("../images/images/background\ image1.jpg")
+}
+body {
+    background-color:cornflowerblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h1, h2 {
+    font-family: 'Brush Script MT' , cursive;
+}
+#baseballpicture {
+    width: 20%;
+    display: block;
+    margin: auto; 
+
+    padding:6px;
+}
